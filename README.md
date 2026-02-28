@@ -18,4 +18,4 @@ ChatGPT integration — enables students to interact with MathTrail through Open
 ## Roadmap
 1. Define OpenAI Actions schema (get-task, submit-answer, get-progress)
 2. Implement OAuth2 flow with Ory Hydra for ChatGPT auth
-3. Build action handlers that proxy to internal Dapr services
+3. Build action handlers that proxy to internal services
